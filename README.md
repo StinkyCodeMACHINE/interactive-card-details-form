@@ -1,28 +1,35 @@
-# Веб-приложение по продаже бытовой техники и электронники "Шазам"
+# Frontend Mentor - Interactive card details form solution
 
-Это RESTful веб-приложение по продаже бытовой техники и электронники, имеющее среди своих главных достоинств: интуитивный интерфейс, простоту поиска и сравнения товаров по всевозможным характеристикам; возможность добавления больших объёмов товаров с использованием таблиц Excel; систему оповещения покупателей через чат бот мессенджера WhatsApp.
+This is a solution to the [Interactive card details form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Таблица содержимого
+## Table of contents
 
-- [Обзор](#обзор)
-  - [Скриншот](#cкриншот)
-- [Процесс](#процесс)
-  - [Инструменты](#инструменты)
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-## Обзор
+## Overview
 
-### Скриншот
+### Screenshot
 
 ![](./screenshot.png)
 
-## Процесс
+### Links
 
-### Инструменты
+- Live Site URL: [https://stately-florentine-248000.netlify.app/](https://stately-florentine-248000.netlify.app/)
 
-- HTML
-- CSS
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
 - JavaScript
 - React
-- Node.js
-- Express
-- Postgresql
+
+## Author
+
+- Frontend Mentor - [@StinkyCodeMACHINE](https://www.frontendmentor.io/profile/StinkyCodeMACHINE)
