@@ -31,7 +31,7 @@ function App() {
               alt="front side of a card"
             />
             <div className="card-info card-info-upper">
-              <img className="card-logo" src="/assets/card-logo.svg" />
+              <img className="card-logo" src="/assets/card-logo.svg" alt="card logo"/>
               <div className="card-number">{inputValues.number}</div>
               <div>
                 <div className="card-name">{inputValues.name}</div>
