@@ -22,9 +22,14 @@ function App() {
   return (
     <>
       <main>
+        <h1 class="sr-only">Card details form</h1>
         <aside>
           <div className="card-container">
-            <img className="card-img" src="/assets/bg-card-front.png" alt="" />
+            <img
+              className="card-img"
+              src="/assets/bg-card-front.png"
+              alt="front side of a card"
+            />
             <div className="card-info card-info-upper">
               <img className="card-logo" src="/assets/card-logo.svg" />
               <div className="card-number">{inputValues.number}</div>
@@ -39,7 +44,11 @@ function App() {
             </div>
           </div>
           <div className="card-container lower-card">
-            <img className="card-img" src="/assets/bg-card-back.png" alt="" />
+            <img
+              className="card-img"
+              src="/assets/bg-card-back.png"
+              alt="back side of a card"
+            />
             <div className="card-info card-info-lower">
               <div className="card-cvc">{inputValues.cvc}</div>
             </div>
